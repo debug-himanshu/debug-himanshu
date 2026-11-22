@@ -1,0 +1,186 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="860" height="510" viewBox="0 0 860 510" role="img" aria-label="About Me: Himanshu Kushwaha, 3rd-year B.Tech student and aspiring Full Stack Web Developer" xmlns:c2pa="http://c2pa.org/manifest">
+<defs>
+<linearGradient id="rb" x1="0" x2="1"><stop offset="0" stop-color="#ff0080"/><stop offset="0.25" stop-color="#ff8c00"/><stop offset="0.5" stop-color="#43e97b"/><stop offset="0.75" stop-color="#24c6dc"/><stop offset="1" stop-color="#a855f7"/></linearGradient>
+<linearGradient id="bd" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#24c6dc"/><stop offset="0.5" stop-color="#a855f7"/><stop offset="1" stop-color="#ff6ec4"/></linearGradient>
+</defs>
+<style>
+text{font-family:'Courier New',Consolas,monospace}
+.w,.u{animation-duration:13.9s;animation-iteration-count:infinite;animation-timing-function:ease-out}
+.w{transform-box:fill-box;transform-origin:left bottom}
+.u{transform-box:fill-box;transform-origin:left center}
+@keyframes k0{0%,0.0%{opacity:0;transform:translateY(14px) scale(.6)}3.6%,91.37%{opacity:1;transform:translateY(0) scale(1)}100%{opacity:0;transform:translateY(0) scale(1)}}
+@keyframes k1{0%,0.65%{opacity:0;transform:translateY(14px) scale(.6)}4.24%,91.37%{opacity:1;transform:translateY(0) scale(1)}100%{opacity:0;transform:translateY(0) scale(1)}}
+@keyframes k2{0%,1.29%{opacity:0;transform:translateY(14px) scale(.6)}4.89%,91.37%{opacity:1;transform:translateY(0) scale(1)}100%{opacity:0;transform:translateY(0) scale(1)}}
+@keyframes k3{0%,1.94%{opacity:0;transform:translateY(14px) scale(.6)}5.54%,91.37%{opacity:1;transform:translateY(0) scale(1)}100%{opacity:0;transform:translateY(0) scale(1)}}
+@keyframes k4{0%,2.59%{transform:scaleX(0);opacity:0}6.19%,91.37%{transform:scaleX(1);opacity:1}100%{transform:scaleX(1);opacity:0}}
+@keyframes k5{0%,3.45%{opacity:0;transform:translateY(14px) scale(.6)}7.05%,91.37%{opacity:1;transform:translateY(0) scale(1)}100%{opacity:0;transform:translateY(0) scale(1)}}
+@keyframes k6{0%,4.1%{opacity:0;transform:translateY(14px) scale(.6)}7.7%,91.37%{opacity:1;transform:translateY(0) scale(1)}100%{opacity:0;transform:translateY(0) scale(1)}}
+@keyframes k7{0%,4.75%{opacity:0;transform:translateY(14px) scale(.6)}8.35%,91.37%{opacity:1;transform:translateY(0) scale(1)}100%{opacity:0;transform:translateY(0) scale(1)}}
+@keyframes k8{0%,5.4%{opacity:0;transform:translateY(14px) scale(.6)}8.99%,91.37%{opacity:1;transform:translateY(0) scale(1)}100%{opacity:0;transform:translateY(0) scale(1)}}
+@keyframes k9{0%,6.04%{opacity:0;transform:translateY(14px) scale(.6)}9.64%,91.37%{opacity:1;transform:translateY(0) scale(1)}100%{opacity:0;transform:translateY(0) scale(1)}}
+@keyframes k10{0%,6.69%{opacity:0;transform:translateY(14px) scale(.6)}10.29%,91.37%{opacity:1;transform:translateY(0) scale(1)}100%{opacity:0;transform:translateY(0) scale(1)}}
+@keyframes k11{0%,7.34%{opacity:0;transform:translateY(14px) scale(.6)}10.94%,91.37%{opacity:1;transform:translateY(0) scale(1)}100%{opacity:0;transform:translateY(0) scale(1)}}
+@keyframes k12{0%,7.99%{opacity:0;transform:translateY(14px) scale(.6)}11.58%,91.37%{opacity:1;transform:translateY(0) scale(1)}100%{opacity:0;transform:translateY(0) scale(1)}}
+@keyframes k13{0%,8.63%{opacity:0;transform:translateY(14px) scale(.6)}12.23%,91.37%{opacity:1;transform:translateY(0) scale(1)}100%{opacity:0;transform:translateY(0) scale(1)}}
+@keyframes k14{0%,9.28%{opacity:0;transform:translateY(14px) scale(.6)}12.88%,91.37%{opacity:1;transform:translateY(0) scale(1)}100%{opacity:0;transform:translateY(0) scale(1)}}
+@keyframes k15{0%,10.79%{opacity:0;transform:translateY(14px) scale(.6)}14.39%,91.37%{opacity:1;transform:translateY(0) scale(1)}100%{opacity:0;transform:translateY(0) scale(1)}}
+@keyframes k16{0%,11.44%{opacity:0;transform:translateY(14px) scale(.6)}15.04%,91.37%{opacity:1;transform:translateY(0) scale(1)}100%{opacity:0;transform:translateY(0) scale(1)}}
+@keyframes k17{0%,12.09%{opacity:0;transform:translateY(14px) scale(.6)}15.68%,91.37%{opacity:1;transform:translateY(0) scale(1)}100%{opacity:0;transform:translateY(0) scale(1)}}
+@keyframes k18{0%,12.73%{opacity:0;transform:translateY(14px) scale(.6)}16.33%,91.37%{opacity:1;transform:translateY(0) scale(1)}100%{opacity:0;transform:translateY(0) scale(1)}}
+@keyframes k19{0%,13.38%{opacity:0;transform:translateY(14px) scale(.6)}16.98%,91.37%{opacity:1;transform:translateY(0) scale(1)}100%{opacity:0;transform:translateY(0) scale(1)}}
+@keyframes k20{0%,14.03%{opacity:0;transform:translateY(14px) scale(.6)}17.63%,91.37%{opacity:1;transform:translateY(0) scale(1)}100%{opacity:0;transform:translateY(0) scale(1)}}
+@keyframes k21{0%,14.68%{opacity:0;transform:translateY(14px) scale(.6)}18.27%,91.37%{opacity:1;transform:translateY(0) scale(1)}100%{opacity:0;transform:translateY(0) scale(1)}}
+@keyframes k22{0%,15.32%{opacity:0;transform:translateY(14px) scale(.6)}18.92%,91.37%{opacity:1;transform:translateY(0) scale(1)}100%{opacity:0;transform:translateY(0) scale(1)}}
+@keyframes k23{0%,15.97%{opacity:0;transform:translateY(14px) scale(.6)}19.57%,91.37%{opacity:1;transform:translateY(0) scale(1)}100%{opacity:0;transform:translateY(0) scale(1)}}
+@keyframes k24{0%,16.62%{opacity:0;transform:translateY(14px) scale(.6)}20.22%,91.37%{opacity:1;transform:translateY(0) scale(1)}100%{opacity:0;transform:translateY(0) scale(1)}}
+@keyframes k25{0%,17.27%{opacity:0;transform:translateY(14px) scale(.6)}20.86%,91.37%{opacity:1;transform:translateY(0) scale(1)}100%{opacity:0;transform:translateY(0) scale(1)}}
+@keyframes k26{0%,18.78%{opacity:0;transform:translateY(14px) scale(.6)}22.37%,91.37%{opacity:1;transform:translateY(0) scale(1)}100%{opacity:0;transform:translateY(0) scale(1)}}
+@keyframes k27{0%,19.42%{opacity:0;transform:translateY(14px) scale(.6)}23.02%,91.37%{opacity:1;transform:translateY(0) scale(1)}100%{opacity:0;transform:translateY(0) scale(1)}}
+@keyframes k28{0%,20.07%{opacity:0;transform:translateY(14px) scale(.6)}23.67%,91.37%{opacity:1;transform:translateY(0) scale(1)}100%{opacity:0;transform:translateY(0) scale(1)}}
+@keyframes k29{0%,20.72%{opacity:0;transform:translateY(14px) scale(.6)}24.32%,91.37%{opacity:1;transform:translateY(0) scale(1)}100%{opacity:0;transform:translateY(0) scale(1)}}
+@keyframes k30{0%,21.37%{opacity:0;transform:translateY(14px) scale(.6)}24.96%,91.37%{opacity:1;transform:translateY(0) scale(1)}100%{opacity:0;transform:translateY(0) scale(1)}}
+@keyframes k31{0%,22.01%{opacity:0;transform:translateY(14px) scale(.6)}25.61%,91.37%{opacity:1;transform:translateY(0) scale(1)}100%{opacity:0;transform:translateY(0) scale(1)}}
+@keyframes k32{0%,22.66%{opacity:0;transform:translateY(14px) scale(.6)}26.26%,91.37%{opacity:1;transform:translateY(0) scale(1)}100%{opacity:0;transform:translateY(0) scale(1)}}
+@keyframes k33{0%,23.31%{opacity:0;transform:translateY(14px) scale(.6)}26.91%,91.37%{opacity:1;transform:translateY(0) scale(1)}100%{opacity:0;transform:translateY(0) scale(1)}}
+@keyframes k34{0%,23.96%{opacity:0;transform:translateY(14px) scale(.6)}27.55%,91.37%{opacity:1;transform:translateY(0) scale(1)}100%{opacity:0;transform:translateY(0) scale(1)}}
+@keyframes k35{0%,24.6%{opacity:0;transform:translateY(14px) scale(.6)}28.2%,91.37%{opacity:1;transform:translateY(0) scale(1)}100%{opacity:0;transform:translateY(0) scale(1)}}
+@keyframes k36{0%,25.25%{opacity:0;transform:translateY(14px) scale(.6)}28.85%,91.37%{opacity:1;transform:translateY(0) scale(1)}100%{opacity:0;transform:translateY(0) scale(1)}}
+@keyframes k37{0%,25.9%{opacity:0;transform:translateY(14px) scale(.6)}29.5%,91.37%{opacity:1;transform:translateY(0) scale(1)}100%{opacity:0;transform:translateY(0) scale(1)}}
+@keyframes k38{0%,26.55%{opacity:0;transform:translateY(14px) scale(.6)}30.14%,91.37%{opacity:1;transform:translateY(0) scale(1)}100%{opacity:0;transform:translateY(0) scale(1)}}
+@keyframes k39{0%,28.06%{opacity:0;transform:translateY(14px) scale(.6)}31.65%,91.37%{opacity:1;transform:translateY(0) scale(1)}100%{opacity:0;transform:translateY(0) scale(1)}}
+@keyframes k40{0%,28.71%{opacity:0;transform:translateY(14px) scale(.6)}32.3%,91.37%{opacity:1;transform:translateY(0) scale(1)}100%{opacity:0;transform:translateY(0) scale(1)}}
+@keyframes k41{0%,29.35%{opacity:0;transform:translateY(14px) scale(.6)}32.95%,91.37%{opacity:1;transform:translateY(0) scale(1)}100%{opacity:0;transform:translateY(0) scale(1)}}
+@keyframes k42{0%,30.0%{transform:scaleX(0);opacity:0}33.6%,91.37%{transform:scaleX(1);opacity:1}100%{transform:scaleX(1);opacity:0}}
+@keyframes k43{0%,30.86%{opacity:0;transform:translateY(14px) scale(.6)}34.46%,91.37%{opacity:1;transform:translateY(0) scale(1)}100%{opacity:0;transform:translateY(0) scale(1)}}
+@keyframes k44{0%,31.51%{opacity:0;transform:translateY(14px) scale(.6)}35.11%,91.37%{opacity:1;transform:translateY(0) scale(1)}100%{opacity:0;transform:translateY(0) scale(1)}}
+@keyframes k45{0%,32.16%{opacity:0;transform:translateY(14px) scale(.6)}35.76%,91.37%{opacity:1;transform:translateY(0) scale(1)}100%{opacity:0;transform:translateY(0) scale(1)}}
+@keyframes k46{0%,32.81%{opacity:0;transform:translateY(14px) scale(.6)}36.4%,91.37%{opacity:1;transform:translateY(0) scale(1)}100%{opacity:0;transform:translateY(0) scale(1)}}
+@keyframes k47{0%,33.45%{opacity:0;transform:translateY(14px) scale(.6)}37.05%,91.37%{opacity:1;transform:translateY(0) scale(1)}100%{opacity:0;transform:translateY(0) scale(1)}}
+@keyframes k48{0%,34.1%{opacity:0;transform:translateY(14px) scale(.6)}37.7%,91.37%{opacity:1;transform:translateY(0) scale(1)}100%{opacity:0;transform:translateY(0) scale(1)}}
+@keyframes k49{0%,35.61%{opacity:0;transform:translateY(14px) scale(.6)}39.21%,91.37%{opacity:1;transform:translateY(0) scale(1)}100%{opacity:0;transform:translateY(0) scale(1)}}
+@keyframes k50{0%,36.26%{opacity:0;transform:translateY(14px) scale(.6)}39.86%,91.37%{opacity:1;transform:translateY(0) scale(1)}100%{opacity:0;transform:translateY(0) scale(1)}}
+@keyframes k51{0%,36.91%{opacity:0;transform:translateY(14px) scale(.6)}40.5%,91.37%{opacity:1;transform:translateY(0) scale(1)}100%{opacity:0;transform:translateY(0) scale(1)}}
+@keyframes k52{0%,37.55%{opacity:0;transform:translateY(14px) scale(.6)}41.15%,91.37%{opacity:1;transform:translateY(0) scale(1)}100%{opacity:0;transform:translateY(0) scale(1)}}
+@keyframes k53{0%,38.2%{opacity:0;transform:translateY(14px) scale(.6)}41.8%,91.37%{opacity:1;transform:translateY(0) scale(1)}100%{opacity:0;transform:translateY(0) scale(1)}}
+@keyframes k54{0%,39.71%{opacity:0;transform:translateY(14px) scale(.6)}43.31%,91.37%{opacity:1;transform:translateY(0) scale(1)}100%{opacity:0;transform:translateY(0) scale(1)}}
+@keyframes k55{0%,40.36%{opacity:0;transform:translateY(14px) scale(.6)}43.96%,91.37%{opacity:1;transform:translateY(0) scale(1)}100%{opacity:0;transform:translateY(0) scale(1)}}
+@keyframes k56{0%,41.01%{opacity:0;transform:translateY(14px) scale(.6)}44.6%,91.37%{opacity:1;transform:translateY(0) scale(1)}100%{opacity:0;transform:translateY(0) scale(1)}}
+@keyframes k57{0%,41.65%{opacity:0;transform:translateY(14px) scale(.6)}45.25%,91.37%{opacity:1;transform:translateY(0) scale(1)}100%{opacity:0;transform:translateY(0) scale(1)}}
+@keyframes k58{0%,42.3%{opacity:0;transform:translateY(14px) scale(.6)}45.9%,91.37%{opacity:1;transform:translateY(0) scale(1)}100%{opacity:0;transform:translateY(0) scale(1)}}
+@keyframes k59{0%,42.95%{opacity:0;transform:translateY(14px) scale(.6)}46.55%,91.37%{opacity:1;transform:translateY(0) scale(1)}100%{opacity:0;transform:translateY(0) scale(1)}}
+@keyframes k60{0%,44.46%{opacity:0;transform:translateY(14px) scale(.6)}48.06%,91.37%{opacity:1;transform:translateY(0) scale(1)}100%{opacity:0;transform:translateY(0) scale(1)}}
+@keyframes k61{0%,45.11%{opacity:0;transform:translateY(14px) scale(.6)}48.71%,91.37%{opacity:1;transform:translateY(0) scale(1)}100%{opacity:0;transform:translateY(0) scale(1)}}
+@keyframes k62{0%,45.76%{transform:scaleX(0);opacity:0}49.35%,91.37%{transform:scaleX(1);opacity:1}100%{transform:scaleX(1);opacity:0}}
+@keyframes k63{0%,46.62%{opacity:0;transform:translateY(14px) scale(.6)}50.22%,91.37%{opacity:1;transform:translateY(0) scale(1)}100%{opacity:0;transform:translateY(0) scale(1)}}
+@keyframes k64{0%,47.27%{opacity:0;transform:translateY(14px) scale(.6)}50.86%,91.37%{opacity:1;transform:translateY(0) scale(1)}100%{opacity:0;transform:translateY(0) scale(1)}}
+@keyframes k65{0%,47.91%{opacity:0;transform:translateY(14px) scale(.6)}51.51%,91.37%{opacity:1;transform:translateY(0) scale(1)}100%{opacity:0;transform:translateY(0) scale(1)}}
+@keyframes k66{0%,49.42%{opacity:0;transform:translateY(14px) scale(.6)}53.02%,91.37%{opacity:1;transform:translateY(0) scale(1)}100%{opacity:0;transform:translateY(0) scale(1)}}
+@keyframes k67{0%,50.07%{opacity:0;transform:translateY(14px) scale(.6)}53.67%,91.37%{opacity:1;transform:translateY(0) scale(1)}100%{opacity:0;transform:translateY(0) scale(1)}}
+@keyframes k68{0%,50.72%{opacity:0;transform:translateY(14px) scale(.6)}54.32%,91.37%{opacity:1;transform:translateY(0) scale(1)}100%{opacity:0;transform:translateY(0) scale(1)}}
+@keyframes k69{0%,51.37%{opacity:0;transform:translateY(14px) scale(.6)}54.96%,91.37%{opacity:1;transform:translateY(0) scale(1)}100%{opacity:0;transform:translateY(0) scale(1)}}
+@keyframes k70{0%,52.01%{opacity:0;transform:translateY(14px) scale(.6)}55.61%,91.37%{opacity:1;transform:translateY(0) scale(1)}100%{opacity:0;transform:translateY(0) scale(1)}}
+@keyframes k71{0%,53.53%{opacity:0;transform:translateY(14px) scale(.6)}57.12%,91.37%{opacity:1;transform:translateY(0) scale(1)}100%{opacity:0;transform:translateY(0) scale(1)}}
+@keyframes k72{0%,54.17%{opacity:0;transform:translateY(14px) scale(.6)}57.77%,91.37%{opacity:1;transform:translateY(0) scale(1)}100%{opacity:0;transform:translateY(0) scale(1)}}
+@keyframes k73{0%,54.82%{opacity:0;transform:translateY(14px) scale(.6)}58.42%,91.37%{opacity:1;transform:translateY(0) scale(1)}100%{opacity:0;transform:translateY(0) scale(1)}}
+@keyframes k74{0%,55.47%{opacity:0;transform:translateY(14px) scale(.6)}59.06%,91.37%{opacity:1;transform:translateY(0) scale(1)}100%{opacity:0;transform:translateY(0) scale(1)}}
+@keyframes k75{0%,56.12%{opacity:0;transform:translateY(14px) scale(.6)}59.71%,91.37%{opacity:1;transform:translateY(0) scale(1)}100%{opacity:0;transform:translateY(0) scale(1)}}
+@keyframes k76{0%,56.76%{opacity:0;transform:translateY(14px) scale(.6)}60.36%,91.37%{opacity:1;transform:translateY(0) scale(1)}100%{opacity:0;transform:translateY(0) scale(1)}}
+@keyframes k77{0%,58.27%{opacity:0;transform:translateY(14px) scale(.6)}61.87%,91.37%{opacity:1;transform:translateY(0) scale(1)}100%{opacity:0;transform:translateY(0) scale(1)}}
+@keyframes k78{0%,58.92%{opacity:0;transform:translateY(14px) scale(.6)}62.52%,91.37%{opacity:1;transform:translateY(0) scale(1)}100%{opacity:0;transform:translateY(0) scale(1)}}
+@keyframes k79{0%,59.57%{opacity:0;transform:translateY(14px) scale(.6)}63.17%,91.37%{opacity:1;transform:translateY(0) scale(1)}100%{opacity:0;transform:translateY(0) scale(1)}}
+@keyframes k80{0%,60.22%{opacity:0;transform:translateY(14px) scale(.6)}63.81%,91.37%{opacity:1;transform:translateY(0) scale(1)}100%{opacity:0;transform:translateY(0) scale(1)}}
+@keyframes k81{0%,60.86%{opacity:0;transform:translateY(14px) scale(.6)}64.46%,91.37%{opacity:1;transform:translateY(0) scale(1)}100%{opacity:0;transform:translateY(0) scale(1)}}
+@keyframes k82{0%,61.51%{opacity:0;transform:translateY(14px) scale(.6)}65.11%,91.37%{opacity:1;transform:translateY(0) scale(1)}100%{opacity:0;transform:translateY(0) scale(1)}}
+@keyframes k83{0%,62.16%{opacity:0;transform:translateY(14px) scale(.6)}65.76%,91.37%{opacity:1;transform:translateY(0) scale(1)}100%{opacity:0;transform:translateY(0) scale(1)}}
+@keyframes k84{0%,62.81%{opacity:0;transform:translateY(14px) scale(.6)}66.4%,91.37%{opacity:1;transform:translateY(0) scale(1)}100%{opacity:0;transform:translateY(0) scale(1)}}
+</style>
+<rect x="2" y="2" width="856" height="506" rx="20" fill="#0f0c29"/>
+<rect x="2" y="2" width="856" height="506" rx="20" fill="none" stroke="url(#bd)" stroke-width="3">
+<animate attributeName="stroke-opacity" values="1;0.35;1" dur="3s" repeatCount="indefinite"/>
+</rect>
+<text class="w" x="40.0" y="58" font-size="30" font-weight="700" fill="#ff6ec4" style="animation-name:k0">Hi,</text>
+<text class="w" x="112.0" y="58" font-size="30" font-weight="700" fill="#24c6dc" style="animation-name:k1">I&#x27;m</text>
+<text class="w" x="184.0" y="58" font-size="30" font-weight="700" fill="#f9d423" style="animation-name:k2">Himanshu</text>
+<text class="w" x="346.0" y="58" font-size="30" font-weight="700" fill="#43e97b" style="animation-name:k3">Kushwaha</text>
+<rect class="u" x="40" y="66" width="450" height="3" rx="1.5" fill="url(#rb)" style="animation-name:k4"/>
+<text class="w" x="40.0" y="100" font-size="17" font-weight="500" fill="#a855f7" style="animation-name:k5">a</text>
+<text class="w" x="60.4" y="100" font-size="17" font-weight="500" fill="#ff9a44" style="animation-name:k6">3rd-year</text>
+<text class="w" x="152.2" y="100" font-size="17" font-weight="500" fill="#5ee7ff" style="animation-name:k7">B.Tech</text>
+<text class="w" x="223.6" y="100" font-size="17" font-weight="500" fill="#fc6076" style="animation-name:k8">student</text>
+<text class="w" x="305.2" y="100" font-size="17" font-weight="500" fill="#ff6ec4" style="animation-name:k9">and</text>
+<text class="w" x="346.0" y="100" font-size="17" font-weight="500" fill="#24c6dc" style="animation-name:k10">aspiring</text>
+<text class="w" x="437.8" y="100" font-size="17" font-weight="500" fill="#f9d423" style="animation-name:k11">Full</text>
+<text class="w" x="488.8" y="100" font-size="17" font-weight="500" fill="#43e97b" style="animation-name:k12">Stack</text>
+<text class="w" x="550.0" y="100" font-size="17" font-weight="500" fill="#a855f7" style="animation-name:k13">Web</text>
+<text class="w" x="590.8" y="100" font-size="17" font-weight="500" fill="#ff9a44" style="animation-name:k14">Developer.</text>
+<text class="w" x="40.0" y="128" font-size="17" font-weight="500" fill="#5ee7ff" style="animation-name:k15">I</text>
+<text class="w" x="60.4" y="128" font-size="17" font-weight="500" fill="#fc6076" style="animation-name:k16">enjoy</text>
+<text class="w" x="121.6" y="128" font-size="17" font-weight="500" fill="#ff6ec4" style="animation-name:k17">turning</text>
+<text class="w" x="203.2" y="128" font-size="17" font-weight="500" fill="#24c6dc" style="animation-name:k18">ideas</text>
+<text class="w" x="264.4" y="128" font-size="17" font-weight="500" fill="#f9d423" style="animation-name:k19">into</text>
+<text class="w" x="315.4" y="128" font-size="17" font-weight="500" fill="#43e97b" style="animation-name:k20">clean,</text>
+<text class="w" x="386.8" y="128" font-size="17" font-weight="500" fill="#a855f7" style="animation-name:k21">responsive</text>
+<text class="w" x="499.0" y="128" font-size="17" font-weight="500" fill="#ff9a44" style="animation-name:k22">and</text>
+<text class="w" x="539.8" y="128" font-size="17" font-weight="500" fill="#5ee7ff" style="animation-name:k23">fast</text>
+<text class="w" x="590.8" y="128" font-size="17" font-weight="500" fill="#fc6076" style="animation-name:k24">web</text>
+<text class="w" x="631.6" y="128" font-size="17" font-weight="500" fill="#ff6ec4" style="animation-name:k25">experiences,</text>
+<text class="w" x="40.0" y="156" font-size="17" font-weight="500" fill="#24c6dc" style="animation-name:k26">and</text>
+<text class="w" x="80.8" y="156" font-size="17" font-weight="500" fill="#f9d423" style="animation-name:k27">I&#x27;m</text>
+<text class="w" x="121.6" y="156" font-size="17" font-weight="500" fill="#43e97b" style="animation-name:k28">steadily</text>
+<text class="w" x="213.4" y="156" font-size="17" font-weight="500" fill="#a855f7" style="animation-name:k29">building</text>
+<text class="w" x="305.2" y="156" font-size="17" font-weight="500" fill="#ff9a44" style="animation-name:k30">my</text>
+<text class="w" x="335.8" y="156" font-size="17" font-weight="500" fill="#5ee7ff" style="animation-name:k31">skills</text>
+<text class="w" x="407.2" y="156" font-size="17" font-weight="500" fill="#fc6076" style="animation-name:k32">in</text>
+<text class="w" x="437.8" y="156" font-size="17" font-weight="500" fill="#ff6ec4" style="animation-name:k33">the</text>
+<text class="w" x="478.6" y="156" font-size="17" font-weight="500" fill="#24c6dc" style="animation-name:k34">MERN</text>
+<text class="w" x="529.6" y="156" font-size="17" font-weight="500" fill="#f9d423" style="animation-name:k35">stack</text>
+<text class="w" x="590.8" y="156" font-size="17" font-weight="500" fill="#43e97b" style="animation-name:k36">and</text>
+<text class="w" x="631.6" y="156" font-size="17" font-weight="500" fill="#a855f7" style="animation-name:k37">problem</text>
+<text class="w" x="713.2" y="156" font-size="17" font-weight="500" fill="#ff9a44" style="animation-name:k38">solving.</text>
+<text class="w" x="40.0" y="205" font-size="20" font-weight="700" fill="#5ee7ff" style="animation-name:k39">Currently</text>
+<text class="w" x="160.0" y="205" font-size="20" font-weight="700" fill="#fc6076" style="animation-name:k40">working</text>
+<text class="w" x="256.0" y="205" font-size="20" font-weight="700" fill="#ff6ec4" style="animation-name:k41">on</text>
+<rect class="u" x="40" y="213" width="240" height="3" rx="1.5" fill="url(#rb)" style="animation-name:k42"/>
+<text class="w" x="40.0" y="235" font-size="17" font-weight="500" fill="#24c6dc" style="animation-name:k43">&gt;</text>
+<text class="w" x="60.4" y="235" font-size="17" font-weight="500" fill="#f9d423" style="animation-name:k44">Responsive</text>
+<text class="w" x="172.6" y="235" font-size="17" font-weight="500" fill="#43e97b" style="animation-name:k45">and</text>
+<text class="w" x="213.4" y="235" font-size="17" font-weight="500" fill="#a855f7" style="animation-name:k46">modern</text>
+<text class="w" x="284.8" y="235" font-size="17" font-weight="500" fill="#ff9a44" style="animation-name:k47">web</text>
+<text class="w" x="325.6" y="235" font-size="17" font-weight="500" fill="#5ee7ff" style="animation-name:k48">projects</text>
+<text class="w" x="40.0" y="261" font-size="17" font-weight="500" fill="#fc6076" style="animation-name:k49">&gt;</text>
+<text class="w" x="60.4" y="261" font-size="17" font-weight="500" fill="#ff6ec4" style="animation-name:k50">Getting</text>
+<text class="w" x="142.0" y="261" font-size="17" font-weight="500" fill="#24c6dc" style="animation-name:k51">stronger</text>
+<text class="w" x="233.8" y="261" font-size="17" font-weight="500" fill="#f9d423" style="animation-name:k52">in</text>
+<text class="w" x="264.4" y="261" font-size="17" font-weight="500" fill="#43e97b" style="animation-name:k53">React</text>
+<text class="w" x="40.0" y="287" font-size="17" font-weight="500" fill="#a855f7" style="animation-name:k54">&gt;</text>
+<text class="w" x="60.4" y="287" font-size="17" font-weight="500" fill="#ff9a44" style="animation-name:k55">Practicing</text>
+<text class="w" x="172.6" y="287" font-size="17" font-weight="500" fill="#5ee7ff" style="animation-name:k56">Data</text>
+<text class="w" x="223.6" y="287" font-size="17" font-weight="500" fill="#fc6076" style="animation-name:k57">Structures</text>
+<text class="w" x="335.8" y="287" font-size="17" font-weight="500" fill="#ff6ec4" style="animation-name:k58">and</text>
+<text class="w" x="376.6" y="287" font-size="17" font-weight="500" fill="#24c6dc" style="animation-name:k59">Algorithms</text>
+<text class="w" x="40.0" y="335" font-size="20" font-weight="700" fill="#f9d423" style="animation-name:k60">Let&#x27;s</text>
+<text class="w" x="112.0" y="335" font-size="20" font-weight="700" fill="#43e97b" style="animation-name:k61">collaborate</text>
+<rect class="u" x="40" y="343" width="204" height="3" rx="1.5" fill="url(#rb)" style="animation-name:k62"/>
+<text class="w" x="40.0" y="365" font-size="17" font-weight="500" fill="#a855f7" style="animation-name:k63">&gt;</text>
+<text class="w" x="60.4" y="365" font-size="17" font-weight="500" fill="#ff9a44" style="animation-name:k64">Open-source</text>
+<text class="w" x="182.8" y="365" font-size="17" font-weight="500" fill="#5ee7ff" style="animation-name:k65">contributions</text>
+<text class="w" x="40.0" y="391" font-size="17" font-weight="500" fill="#fc6076" style="animation-name:k66">&gt;</text>
+<text class="w" x="60.4" y="391" font-size="17" font-weight="500" fill="#ff6ec4" style="animation-name:k67">Internships</text>
+<text class="w" x="182.8" y="391" font-size="17" font-weight="500" fill="#24c6dc" style="animation-name:k68">and</text>
+<text class="w" x="223.6" y="391" font-size="17" font-weight="500" fill="#f9d423" style="animation-name:k69">freelance</text>
+<text class="w" x="325.6" y="391" font-size="17" font-weight="500" fill="#43e97b" style="animation-name:k70">work</text>
+<text class="w" x="40.0" y="417" font-size="17" font-weight="500" fill="#a855f7" style="animation-name:k71">&gt;</text>
+<text class="w" x="60.4" y="417" font-size="17" font-weight="500" fill="#ff9a44" style="animation-name:k72">Learning</text>
+<text class="w" x="152.2" y="417" font-size="17" font-weight="500" fill="#5ee7ff" style="animation-name:k73">projects</text>
+<text class="w" x="244.0" y="417" font-size="17" font-weight="500" fill="#fc6076" style="animation-name:k74">with</text>
+<text class="w" x="295.0" y="417" font-size="17" font-weight="500" fill="#ff6ec4" style="animation-name:k75">other</text>
+<text class="w" x="356.2" y="417" font-size="17" font-weight="500" fill="#24c6dc" style="animation-name:k76">developers</text>
+<text class="w" x="40.0" y="470" font-size="17" font-weight="500" fill="#f9d423" style="animation-name:k77">&quot;Write</text>
+<text class="w" x="111.4" y="470" font-size="17" font-weight="500" fill="#43e97b" style="animation-name:k78">clean</text>
+<text class="w" x="172.6" y="470" font-size="17" font-weight="500" fill="#a855f7" style="animation-name:k79">code.</text>
+<text class="w" x="233.8" y="470" font-size="17" font-weight="500" fill="#ff9a44" style="animation-name:k80">Solve</text>
+<text class="w" x="295.0" y="470" font-size="17" font-weight="500" fill="#5ee7ff" style="animation-name:k81">real</text>
+<text class="w" x="346.0" y="470" font-size="17" font-weight="500" fill="#fc6076" style="animation-name:k82">problems.</text>
+<text class="w" x="448.0" y="470" font-size="17" font-weight="500" fill="#ff6ec4" style="animation-name:k83">Keep</text>
+<text class="w" x="499.0" y="470" font-size="17" font-weight="500" fill="#24c6dc" style="animation-name:k84">improving.&quot;</text>
+<metadata><c2pa:manifest>AAAWgmp1bWIAAAAeanVtZGMycGEAEQAQgAAAqgA4m3EDYzJwYQAAABZcanVtYgAAAEdqdW1kYzJtYQARABCAAACqADibcQN1cm46YzJwYTo1ZDY5YjFjNy00ZmQ0LTQxMTctOGJlNS1hMzY3MDM3NjIyYjgAAAADl2p1bWIAAAApanVtZGMyYXMAEQAQgAAAqgA4m3EDYzJwYS5hc3NlcnRpb25zAAAAALxqdW1iAAAARGp1bWRjYm9yABEAEIAAAKoAOJtxE2MycGEuaW5ncmVkaWVudC52MwAAAAAYYzJzaM1eYa8fPsvokgsTQwtZHkIAAABwY2JvcqNpZGM6Zm9ybWF0bWltYWdlL3N2Zyt4bWxqaW5zdGFuY2VJRHgseG1wOmlpZDpmM2JmYjVlZS1kMjMxLTRmOTAtOGE0Mi04ZmYyNzIyNGZhNTVscmVsYXRpb25zaGlwaHBhcmVudE9mAAAB4mp1bWIAAABBanVtZGNib3IAEQAQgAAAqgA4m3ETYzJwYS5hY3Rpb25zLnYyAAAAABhjMnNoMi838r3ErQboes+DaxUyQwAAAZljYm9yomdhY3Rpb25zgqJmYWN0aW9ua2MycGEub3BlbmVkanBhcmFtZXRlcnOha2luZ3JlZGllbnRzgaJjdXJseC1zZWxmI2p1bWJmPWMycGEuYXNzZXJ0aW9ucy9jMnBhLmluZ3JlZGllbnQudjNkaGFzaFgg2h9SUDdY9MLgLXWS3W1ZKQkfmhoDhmv8mG1MD7QZ3YakZmFjdGlvbngdY29tLmFudGhyb3BpYy5jbGF1ZGUucHJvdmlkZWRqcGFyYW1ldGVyc6F4H2NvbS5hbnRocm9waWMub3JpZ2luLWNvbmZpZGVuY2VndW5rbm93bmtkZXNjcmlwdGlvbnhmQ2xhdWRlIHByb3ZpZGVkIHRoaXMgZmlsZSBhdCB0aGUgcmVxdWVzdCBvZiBhIHVzZXIgYW5kIG1heSBoYXZlIGNyZWF0ZWQgb3IgbW9kaWZpZWQgdGhlIGZpbGUgY29udGVudHMubXNvZnR3YXJlQWdlbnShZG5hbWVmQ2xhdWRlcmFsbEFjdGlvbnNJbmNsdWRlZPUAAADIanVtYgAAAEBqdW1kY2JvcgARABCAAACqADibcRNjMnBhLmhhc2guZGF0YQAAAAAYYzJzaKkPeuQumq4HMiGX5AipFZAAAACAY2JvcqVjYWxnZnNoYTI1NmNwYWRMAAAAAAAAAAAAAAAAZGhhc2hYIASlQxGpxtd1VxAAgd5iLEgnwI6vNDqoDjnb0Nqq3hjcZG5hbWVuanVtYmYgbWFuaWZlc3RqZXhjbHVzaW9uc4GiZXN0YXJ0GWhIZmxlbmd0aBkeBAAAAj5qdW1iAAAAJ2p1bWRjMmNsABEAEIAAAKoAOJtxA2MycGEuY2xhaW0udjIAAAACD2Nib3KlY2FsZ2ZzaGEyNTZpc2lnbmF0dXJleE1zZWxmI2p1bWJmPS9jMnBhL3VybjpjMnBhOjVkNjliMWM3LTRmZDQtNDExNy04YmU1LWEzNjcwMzc2MjJiOC9jMnBhLnNpZ25hdHVyZWppbnN0YW5jZUlEeCx4bXA6aWlkOjZiZDRlMGI0LTY1MWQtNDg5MS05YTU5LTAyMjFkMzVmNjRmOHJjcmVhdGVkX2Fzc2VydGlvbnODomN1cmx4LXNlbGYjanVtYmY9YzJwYS5hc3NlcnRpb25zL2MycGEuaW5ncmVkaWVudC52M2RoYXNoWCDaH1JQN1j0wuAtdZLdbVkpCR+aGgOGa/yYbUwPtBndhqJjdXJseCpzZWxmI2p1bWJmPWMycGEuYXNzZXJ0aW9ucy9jMnBhLmFjdGlvbnMudjJkaGFzaFggEckjvygNQe3xf74yVTrXMIGTBuMlwFHzH29Jgj0J032iY3VybHgpc2VsZiNqdW1iZj1jMnBhLmFzc2VydGlvbnMvYzJwYS5oYXNoLmRhdGFkaGFzaFgg1GT3E+v21SnsUThkDeVq3t+Zu+EyOe7t9eZ889hCm+p0Y2xhaW1fZ2VuZXJhdG9yX2luZm+jZG5hbWVvQW50aHJvcGljIEZpbGVzZ3ZlcnNpb25lMS4wLjBrc3BlY1ZlcnNpb25lMi40LjAAABA4anVtYgAAAChqdW1kYzJjcwARABCAAACqADibcQNjMnBhLnNpZ25hdHVyZQAAABAIY2JvctKEWQISogEmGCFZAgowggIGMIIBjaADAgECAhRA5aAK7sI50L64g/oGQgU9Z1UTADAKBggqhkjOPQQDAzBJMRcwFQYDVQQKEw5BbnRocm9waWMsIFBCQzEuMCwGA1UEAxMlQW50aHJvcGljIENvbnRlbnQgQ3JlZGVudGlhbHMgUm9vdCBDQTAeFw0yNjA4MDcxODQzNTZaFw0yODA4MDYxOTQzNTZaMEQxFzAVBgNVBAoTDkFudGhyb3BpYywgUEJDMSkwJwYDVQQDEyBBbnRocm9waWMgQ2xhdWRlIENvbnRlbnQgU2lnbmluZzBZMBMGByqGSM49AgEGCCqGSM49AwEHA0IABJh6CmvLUBgFFNU0vUKlOVtE6djd17L5SuwX0LemFisBM3dkd/3cyjxFA3Qo5S46fX0/ihY0VZ7mfb9KF703t5OjWDBWMA4GA1UdDwEB/wQEAwIHgDAVBgNVHSUEDjAMBgorBgEEAYPoXgIBMAwGA1UdEwEB/wQCMAAwHwYDVR0jBBgwFoAUzlHiBIFOZFsj+OPEz5o+nMHXXMIwCgYIKoZIzj0EAwMDZwAwZAIwMXMdFJ4BetLLVY7ORuE9noqbbAZOZn/aArXyTwFAZfKrPzxF2vPoJNf1+UCdg1XGAjBwX1zd9WGqYkqmL5SFqw1QySjr1zJfpJM9+1rdDwSPLMOPOjKuiXjoU/pUUeG9RwmhY3BhZFkNngAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPZYQH6f48dMxQUHF/7c+LbIIT+4IHnIXKVgRVG2Y3+4kOD43/ZBwy/16uuE1Mfm4P/MYRuCSOTaQTuawHq4F2GzYFI=</c2pa:manifest></metadata></svg>
