@@ -108,7 +108,7 @@ const himanshu = {
 | 🛒 **E-Commerce UI** | Modern shopping interface with cart and product filters | `React` `Tailwind` |
 | ✅ **Task Manager App** | Full-stack to-do app with authentication | `Node.js` `Express` `MongoDB` |
 
-> ✏️ *Replace these with your real projects and add links like `[Live Demo](url)` · `[Source](url)`.*
+> 
 
 ---
 
