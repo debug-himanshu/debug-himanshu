@@ -62,7 +62,6 @@ const himanshu = {
 
 </div>
 
-> ✏️ *Edit the icon lists above to match exactly what you use. Full icon list: [skillicons.dev](https://skillicons.dev)*
 
 ---
 
