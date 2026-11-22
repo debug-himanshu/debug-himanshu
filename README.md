@@ -21,29 +21,41 @@
 
 ---
 
-## 👨‍💻 About Me
+##about me
 
-```js
-const himanshu = {
-  name: "Himanshu Kushwaha",
-  role: "Web Developer",
-  education: "B.Tech — 3rd Year",
-  githubUser: "debug-himanshu",
-  currentlyLearning: ["Advanced React", "Node.js & Express", "Data Structures & Algorithms"],
-  currentlyBuilding: "Responsive & modern web projects",
-  lookingFor: ["Internships", "Open-source collaboration", "Real-world projects"],
-  funFact: "I don't just write code — I debug life. 🐞",
-};
-```
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=rounded&color=gradient&customColorList=12,14,19&height=130&section=header&text=About%20Me&fontSize=44&fontColor=ffffff&animation=twinkling" width="100%" />
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=FF79C6&center=true&vCenter=true&width=700&height=45&lines=I'm+a+Web+Developer;Learning+React,+Node.js+%26+Express;Building+responsive+modern+web+projects" alt="Typing" />
+<br/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=3500&pause=800&color=7EE787&center=true&vCenter=true&width=700&height=35&lines=I+don't+just+write+code+-+I+debug+life;Open+to+internships+%26+collaborations" alt="Typing" />
+
+<br/><br/>
+
+<img src="https://img.shields.io/badge/NAME-Himanshu_Kushwaha-ff7b72?style=for-the-badge&labelColor=21262d" />
+<img src="https://img.shields.io/badge/ROLE-Web_Developer-ffa657?style=for-the-badge&labelColor=21262d" />
+<img src="https://img.shields.io/badge/EDUCATION-B.Tech_3rd_Year-f2cc60?style=for-the-badge&labelColor=21262d" />
+<br/>
+<img src="https://img.shields.io/badge/LEARNING-React_%7C_Node.js_%7C_DSA-7ee787?style=for-the-badge&labelColor=21262d" />
+<img src="https://img.shields.io/badge/BUILDING-Responsive_Web_Projects-79c0ff?style=for-the-badge&labelColor=21262d" />
+<br/>
+<img src="https://img.shields.io/badge/LOOKING_FOR-Internships_%7C_Open_Source-d2a8ff?style=for-the-badge&labelColor=21262d" />
+<img src="https://img.shields.io/badge/FUN_FACT-I_debug_life-ff79c6?style=for-the-badge&labelColor=21262d" />
+
+</div>
+
+<br/>
 
 - 🎓 Currently pursuing **B.Tech (3rd Year)**
-- 🌐 Passionate about crafting **responsive, accessible and performant** web experiences
-- 🌱 Exploring the **MERN stack** and strengthening my problem-solving skills
-- 🤝 Open to **collaborations, internships and freelance opportunities**
+- 🌐 Crafting **responsive, accessible and performant** web experiences
+- 🌱 Exploring the **MERN stack** and sharpening problem-solving skills
+- 🤝 Open to **collaborations, internships and freelance work**
 - ⚡ Motto: *"Write clean code. Solve real problems. Keep improving."*
 
----
-
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=rounded&color=gradient&customColorList=12,14,19&height=70&section=footer" width="100%" />
+</div>
 ## 🛠️ Tech Stack
 
 <div align="center">
@@ -93,9 +105,7 @@ const himanshu = {
 ## 🐍 Contribution Snake
 
 <div align="center">
-
-<img src="https://raw.githubusercontent.com/debug-himanshu/debug-himanshu/output/github-contribution-grid-snake-dark.svg" alt="snake animation" width="100%"/>
-
+  <img src="https://raw.githubusercontent.com/debug-himanshu/debug-himanshu/output/github-snake-dark.svg" width="100%" />
 </div>
 
 ---
